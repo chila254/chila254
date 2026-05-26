@@ -37,7 +37,7 @@
 | **Mobile**        | Android, Jetpack Compose, Material 3, Flutter |
 | **Frontend**      | Next.js, React, Tailwind, TypeScript |
 | **Backend**       | Go (Gin/Fiber), Python (FastAPI), Node.js |
-| **Other**         | Firebase, TMDB API, SQLite, Websocket servers, Docker, GitHub Actions |
+| **Other**         | Firebase, TMDB API, SQLite, Websocket servers, Docker, GitHub Actions,Gitlab Pipelines |
 
 </div>
 
