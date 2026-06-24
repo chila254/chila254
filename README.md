@@ -62,7 +62,7 @@
 
 | Project | Description | Tech | Stars | Link |
 |---------|-------------|------|-------|------|
-| **TeamAuraMusic/AuraMusic** | YouTube Music client for Android phones & TVs. Beautiful Material 3 UI, offline downloads, Google Cast, voice control, full YTM integration. | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin) | 16 stars | [Repo](https://github.com/TeamAuraMusic/AuraMusic) • [Site](https://www.auramusic.site) |
+| **TeamAuraMusic/AuraMusic** | YouTube Music client for Android phones & TVs. Beautiful Material 3 UI, offline downloads, Google Cast, voice control, full YTM integration. | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin) | 37 stars | [Repo](https://github.com/TeamAuraMusic/AuraMusic) • [Site](https://www.auramusic.site) |
 | **chila254/maxstream** | Feature-rich Flutter movie & TV series streaming app with advanced InAppWebView player + 40+ ad networks blocked. | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart) | 4 stars | [Repo](https://github.com/chila254/maxstream) |
 
 ### Supporting Ecosystem (TeamAuraMusic)
